@@ -396,6 +396,7 @@ accrue_core
 accrue_directory
 accrue_network
 accrue_storage
+accrue_ui
 app_logging
 auth_module
 subscription_module
